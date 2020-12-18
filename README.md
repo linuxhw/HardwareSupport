@@ -30,29 +30,29 @@ Support — supported in Linux.
 
 | PCI Class                    | Devices | Support |
 |------------------------------|---------|---------|
-| Card reader                  | 9433    | 100%    |
-| Communication controller     | 39144   | 98.23%  |
-| Dma controller               | 115     | 99.13%  |
-| Dvb card                     | 85      | 100%    |
-| Encryption controller        | 8169    | 88.64%  |
-| Firewire controller          | 7978    | 99.97%  |
-| Flash memory                 | 469     | 37.95%  |
-| **Graphics card**            | 89190   | 98.06%  |
-| Input device controller      | 262     | 100%    |
-| Ipmi smic interface          | 155     | 100%    |
-| Modem                        | 307     | 89.58%  |
-| Multimedia controller        | 2194    | 88.56%  |
-| **Net/ethernet**             | 55774   | 99.92%  |
-| Net/other                    | 10929   | 99.82%  |
-| **Net/wireless**             | 43499   | 99.80%  |
-| Non-essential instrumenta... | 5103    | 99.98%  |
-| **Sd host controller**       | 10370   | 100%    |
-| Serial bus controller        | 12251   | 99.80%  |
-| Serial controller            | 4901    | 99.84%  |
-| Signal processing controller | 37989   | 97.22%  |
-| Smbus                        | 62763   | 99.92%  |
-| **Sound**                    | 103406  | 99.95%  |
-| Tv card                      | 902     | 100%    |
-| Usb controller               | 215098  | 100%    |
+| Card reader                  | 10870   | 100%    |
+| Communication controller     | 44546   | 98.28%  |
+| Dma controller               | 125     | 99.20%  |
+| Dvb card                     | 88      | 100%    |
+| Encryption controller        | 9702    | 89.16%  |
+| Firewire controller          | 8843    | 99.97%  |
+| Flash memory                 | 497     | 37.83%  |
+| **Graphics card**            | 100143  | 98.13%  |
+| Input device controller      | 279     | 100%    |
+| Ipmi smic interface          | 215     | 100%    |
+| Modem                        | 332     | 89.46%  |
+| Multimedia controller        | 2720    | 89.85%  |
+| **Net/ethernet**             | 62340   | 99.92%  |
+| Net/other                    | 12254   | 99.80%  |
+| **Net/wireless**             | 49324   | 99.79%  |
+| Non-essential instrumenta... | 6249    | 99.98%  |
+| **Sd host controller**       | 11691   | 100%    |
+| Serial bus controller        | 15375   | 99.82%  |
+| Serial controller            | 5797    | 99.86%  |
+| Signal processing controller | 44220   | 97.34%  |
+| Smbus                        | 70658   | 99.92%  |
+| **Sound**                    | 116477  | 99.95%  |
+| Tv card                      | 961     | 100%    |
+| Usb controller               | 238607  | 100%    |
 
-Avg. hardware support is: 99.27%
+Avg. hardware support is: 99.28%
