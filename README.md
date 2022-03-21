@@ -14,9 +14,9 @@ We determine support status by the following formula:
 
     Status = (S1*T1 + S2*T2 + ... + Sn*Tn) / (T1 + T2 + ... + Tn)
 
-    Sn — support status of the device (1 — supported, 0 — not supported)
+    Sn - support status of the device (1 - supported, 0 - not supported)
 
-    Tn — total number of device samples
+    Tn - total number of device samples
 
 Everyone can contribute to this report by uploading probes of their computers by
 the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
@@ -25,34 +25,35 @@ the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
 ### Results
 
-Devices — total devices,
-Support — supported in Linux.
+Devices - total devices,
+Support - supported in Linux.
 
 | PCI Class                    | Devices | Support |
 |------------------------------|---------|---------|
-| Card reader                  | 14093   | 100%    |
-| Communication controller     | 57545   | 98.42%  |
-| Dma controller               | 171     | 99.42%  |
-| Dvb card                     | 110     | 100%    |
-| Encryption controller        | 13506   | 90.32%  |
-| Firewire controller          | 10858   | 99.97%  |
-| Flash memory                 | 550     | 37.82%  |
-| **Graphics card**            | 126746  | 98.29%  |
-| Input device controller      | 331     | 100%    |
-| Ipmi smic interface          | 341     | 100%    |
-| Modem                        | 414     | 90.58%  |
-| Multimedia controller        | 4098    | 91.39%  |
-| **Net/ethernet**             | 79911   | 99.92%  |
-| Net/other                    | 13881   | 99.78%  |
-| **Net/wireless**             | 63714   | 99.78%  |
-| Non-essential instrumenta... | 9221    | 99.99%  |
-| **Sd host controller**       | 15101   | 100%    |
-| Serial bus controller        | 23175   | 99.87%  |
-| Serial controller            | 8232    | 99.85%  |
-| Signal processing controller | 58917   | 97.62%  |
-| Smbus                        | 93885   | 99.91%  |
-| **Sound**                    | 148842  | 99.98%  |
-| Tv card                      | 1117    | 100%    |
-| Usb controller               | 296736  | 100%    |
+| Card reader                  | 19657   | 100%    |
+| Communication controller     | 80720   | 98.54%  |
+| Dma controller               | 427     | 99.77%  |
+| Dvb card                     | 124     | 100%    |
+| Encryption controller        | 20371   | 91.53%  |
+| Firewire controller          | 13826   | 99.97%  |
+| Flash memory                 | 620     | 37.74%  |
+| **Graphics card**            | 170802  | 99.01%  |
+| Input device controller      | 389     | 100%    |
+| Ipmi smic interface          | 553     | 100%    |
+| Modem                        | 490     | 91.02%  |
+| Multimedia controller        | 7336    | 93.05%  |
+| **Net/ethernet**             | 106336  | 99.91%  |
+| Net/other                    | 18283   | 99.79%  |
+| **Net/wireless**             | 88417   | 99.82%  |
+| Non-essential instrumenta... | 13957   | 99.97%  |
+| Parallel controller          | 51      | 58.82%  |
+| **Sd host controller**       | 20744   | 100%    |
+| Serial bus controller        | 40815   | 99.94%  |
+| Serial controller            | 12546   | 99.88%  |
+| Signal processing controller | 87504   | 97.80%  |
+| Smbus                        | 127632  | 99.91%  |
+| **Sound**                    | 202774  | 99.93%  |
+| Tv card                      | 1263    | 100%    |
+| Usb controller               | 387885  | 100%    |
 
-Avg. hardware support is: 99.34%
+Avg. hardware support is: 99.43%
